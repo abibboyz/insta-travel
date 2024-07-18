@@ -5,7 +5,7 @@ import Navigation from './app/Navigation';
 export default function App() {
   return (
     <View style={styles.container}>
-        <Text style={styles.textDecoration}>Insta Travek</Text>
+        <Text style={styles.textDecoration}>Insta Travel</Text>
         <StatusBar style="auto" />
         <View style={styles.navigationContainer}>
           <Navigation />
